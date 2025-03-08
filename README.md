@@ -1,6 +1,14 @@
 
 ## 🚀 About Me  
-I am a passionate and dedicated **Full Stack Developer** with expertise in building scalable, robust, and innovative web applications. With a knack for crafting seamless user experiences and writing clean, efficient code, I specialize in both front-end and back-end development.
+I am a passionate and dedicated **Full-Stack Developer** passionate about building innovative software solutions. I specialize in **Java, Python, ReactJS, and Spring Boot**, with a keen interest in **real-time applications and web development**. 
+
+---
+
+## 🎓 Education  
+
+🎓 **BE in Computer Engineering** - Sir Visvesvaraya Institute of Technology (2023)  
+🎓 **Diploma in IT** - K.K. Wagh Polytechnic (2020)  
+🎓 **SSC** - Purushottam English School (2017)
 
 ---
 
@@ -20,14 +28,6 @@ I am a passionate and dedicated **Full Stack Developer** with expertise in build
 
 ### **🔧 Tools & Technologies**  
 ✔️ Git & GitHub | Postman | Selenium | Multithreading
-
----
-
-## 🎓 Education  
-
-🎓 **BE in Computer Engineering** - Sir Visvesvaraya Institute of Technology (2023)  
-🎓 **Diploma in IT** - K.K. Wagh Polytechnic (2020)  
-🎓 **SSC** - Purushottam English School (2017)
 
 ---
 
