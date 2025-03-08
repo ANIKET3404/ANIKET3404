@@ -19,17 +19,21 @@ I am a passionate and dedicated **Full Stack Developer** with expertise in build
 ✔️ MySQL | SQL  
 
 ### **🔧 Tools & Technologies**  
-✔️ Git & GitHub | Postman | Selenium | Beautiful Soup | Socket Programming | Multithreading
+✔️ Git & GitHub | Postman | Selenium | Multithreading
+
+---
 
 ## 🎓 Education  
+
 🎓 **BE in Computer Engineering** - Sir Visvesvaraya Institute of Technology (2023)  
-🎓 **Diploma in IT** - K.K. Wagh Polytechnic (2020) 
+🎓 **Diploma in IT** - K.K. Wagh Polytechnic (2020)  
+🎓 **SSC** - Purushottam English School (2017)
+
+---
 
 ## 📫 Connect with Me  
 
-[LinkedIn](https://www.linkedin.com/in/aniket-shinde07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aniket-shinde07)
 
----
 💡 **Looking for collaborations & open to opportunities in full-stack development!**  
 📩 Feel free to reach out at aniketshinde3404@gmail.com 🚀 
----
